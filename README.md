@@ -20,11 +20,23 @@ The program comprised three courses and an employer project, enabling me to deve
 
 __Tools/languages__: Tableau, SQL, pgAdmin, Relational Database Management, Excel
 
-Identify, source and perform basic cleansing on data from various, relevant sources to support required analysis processes
-Conduct exploratory and descriptive analytics
-Establish and utilise databases to support data management and analysis
-Effectively communicate justified, relevant and useful insights to critical business stakeholders
-Identify appropriate opportunities for business value through data analytics processes
+Identified, sourced, and cleansed data from diverse sources, laying the foundation for essential analysis processes.
+
+Conducted exploratory and descriptive analytics to extract valuable insights from data.
+
+Established and proficiently employed databases to manage and analyze data effectively.
+
+Prepared actionable insights crucial for informing business decision-making, including pinpointing areas for further analysis and exploration.
+
+Effectively communicated well-justified, relevant, and valuable insights to key business stakeholders.
+
+Identified and seized appropriate opportunities for generating business value through data analytics processes.
+
+
+
+
+
+
 
 Assessment: Referring to a given dataset and corresponding business scenario, use SQL and Excel to identify insights through data analysis. Create a dashboard using Tableau to communicate insights alongside critical business metric sto help key stakeholders make data-informed decisions.
 
