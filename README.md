@@ -82,7 +82,7 @@ __Tools/languages__: Python (SciPy, scikit-learn, Statsmodels, XGBoost), R, GitH
 | ----------------------------------- | ----------------------------------------------------------------------------- |
 | __Predictive Modeling__             | Hypothesis testing, AB testing, sensitivity/what is analysis, linear regression, multiple linear regression, logistic regression, multinomial logistic regression, decision trees, random forests, k-means clustering, support vector machine models. |
 | __Sentiment Analysis with NLP__     | Preprocessing, applying NLP, Naive Bayes, Vadar sentiment analysis on social media data, customer feedback data, and reviews. |
-| __Exploratory Analysis and Visualizations in R__ | Transforming data with dplyr, data wrangling and manipulation, Plotly, ggplot2, multivariate graphs, statistical analysis (descriptive and inferential statistics), time series and ARMA modeling, linear regression, and clustering. |
+| __Exploratory Analysis and Visualisations in R__ | Transforming data with dplyr, data wrangling and manipulation, Plotly, ggplot2, multivariate graphs, statistical analysis (descriptive and inferential statistics), time series and ARMA modelling, linear regression, and clustering. |
 
 
 <h4>Learning Outcomes</h4>
