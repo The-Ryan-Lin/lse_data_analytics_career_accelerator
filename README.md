@@ -45,7 +45,7 @@ __Tools/languages__: Tableau, SQL, pgAdmin, Relational Database Management, Exce
 * Effectively communicated well-justified, relevant, and valuable insights to key business stakeholders.
 * Identified and seized appropriate opportunities for generating business value through data analytics processes.
 
-__Assessment:__ Referring to a given dataset and corresponding business scenario, use SQL and Excel to identify insights through data analysis. Create a dashboard using Tableau to communicate insights alongside critical business metric sto help key stakeholders make data-informed decisions.
+__Assessment:__ Referring to a given dataset and corresponding business scenario, use SQL and Excel to identify insights through data analysis. Create a dashboard using Tableau to communicate insights alongside critical business metrics to help key stakeholders make data-informed decisions.
 
 <h2>Course 2: Data Analytics with Python</h2>
 
